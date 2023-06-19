@@ -1,6 +1,14 @@
+# Travel-List app - FAR AWAY
+  Quick tour about react app - Name : Far away app
+  this is simple travel list where we can add all the list of item we need for our trip.
+  
+ # Why this app? 
+  To practise the react props and state systems.While learning React, we could have some confusion in understanding the funda concepts like props and state and form-submission in react, so this is just to get wet our foot.    
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 
 ## Available Scripts
 
